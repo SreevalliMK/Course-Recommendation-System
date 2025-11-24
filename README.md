@@ -20,8 +20,7 @@ udemy_courses.csv (Course list dataset)
 
 4. Run all cells
 
-5. Use the recommend() function example:
-   recommend("Python for Beginners")
+
 ## Sample Output
 Top Recommended Courses:
 1. Complete Python Bootcamp
